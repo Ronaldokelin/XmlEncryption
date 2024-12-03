@@ -1,0 +1,9 @@
+C:\Developer\XmlEncryption\XmlEncryption\bin\Debug\XmlEncryption.exe.config
+C:\Developer\XmlEncryption\XmlEncryption\bin\Debug\XmlEncryption.exe
+C:\Developer\XmlEncryption\XmlEncryption\bin\Debug\XmlEncryption.pdb
+C:\Developer\XmlEncryption\XmlEncryption\obj\Debug\XmlEncryption.csproj.AssemblyReference.cache
+C:\Developer\XmlEncryption\XmlEncryption\obj\Debug\XmlEncryption.Properties.Resources.resources
+C:\Developer\XmlEncryption\XmlEncryption\obj\Debug\XmlEncryption.csproj.GenerateResource.cache
+C:\Developer\XmlEncryption\XmlEncryption\obj\Debug\XmlEncryption.csproj.CoreCompileInputs.cache
+C:\Developer\XmlEncryption\XmlEncryption\obj\Debug\XmlEncryption.exe
+C:\Developer\XmlEncryption\XmlEncryption\obj\Debug\XmlEncryption.pdb
